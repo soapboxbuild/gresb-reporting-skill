@@ -4,5 +4,6 @@
   "description": "GRESB Real Estate Assessment preparation — data collection, scoring guidance, component completion, benchmark comparison, and improvement roadmap for institutional ESG reporting.",
   "author": { "name": "Soapbox", "url": "https://soapbox.build" },
   "homepage": "https://github.com/soapboxbuild/gresb-reporting-skill",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "skills": ["skills"]
 }
