@@ -62,3 +62,15 @@ Total score = Management (30%) + Performance (70%)
 
 ## Reporting Evidence
 Document everything: utility invoices, meter data, certification certificates, policy documents, board minutes approving ESG strategy
+
+## MCP Tools (requires GRESB Official Partner API access)
+- `list_entities` — list GRESB entities you have access to
+- `get_entity` — entity details
+- `get_assessment_scores` — total/management/performance scores + green star rating
+- `get_benchmark` — scores vs peer group median and top quartile
+- `get_indicators` — indicator-level scores for management or performance
+- `get_peer_comparison` — entity rank among peers
+- `submit_indicator` — submit survey responses programmatically
+
+To get API access: apply at gresb.com as an Official Data Partner.
+In Soapbox: Settings → Plugins → GRESB Reporting → Add key (your GRESB API token).

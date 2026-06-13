@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "gresb": {
+      "type": "http",
+      "url": "https://gresb-mcp-production.up.railway.app/mcp",
+      "headers": { "Authorization": "Bearer ${GRESB_API_KEY}" }
+    }
+  }
+}
