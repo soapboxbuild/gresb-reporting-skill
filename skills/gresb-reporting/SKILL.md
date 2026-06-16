@@ -3,6 +3,39 @@ name: gresb-reporting
 description: Prepare GRESB Real Estate Assessment submissions, calculate scores, identify improvement opportunities, and generate GRESB-compliant ESG reports. Use when asked about GRESB, ESG scoring, institutional reporting, real estate sustainability benchmarking, or green star ratings.
 ---
 
+## Assessment Type — Ask First
+
+Real Estate Assessment or Infrastructure Assessment? These are completely different methodologies — do not mix.
+
+## 2024 Pillar Weights (Real Estate Assessment)
+
+**Management: 35%**
+- Leadership (14 pts): senior executive commitment, board oversight, accountability
+- Policies (10 pts): ESG policy scope, external assurance, stakeholder engagement
+- Reporting (6 pts): public disclosure, external assurance of data
+- Risk Management (5 pts): climate risk assessment, business plan integration
+
+**Performance: 65%**
+- Energy, GHG, Water, Waste: consumption data by asset
+- Building Certifications: LEED, BREEAM, NABERS, etc.
+
+## Data Coverage — Highest-Leverage Variable
+
+Performance score is multiplied by **data coverage rate** = verified floor area / total portfolio floor area.
+
+A portfolio with 40% coverage gets **at most 40%** of available Performance points, regardless of how good the verified data is. Surface this immediately when reviewing a GRESB portfolio — increasing coverage is always the first optimization.
+
+**Score uplift priority order:**
+1. Increase verified/covered floor area (multiplier effect)
+2. Add green building certifications (LEED Gold = significant points)
+3. Third-party assurance of energy/emissions data
+4. Board-level ESG governance documentation
+5. Reduce energy intensity year-over-year (trending matters)
+
+## Submission Window
+
+Submission: **April–July** each year. Reference year = prior calendar year. Flag if user is asking about submitting outside this window.
+
 # GRESB Real Estate Assessment
 
 ## Overview
